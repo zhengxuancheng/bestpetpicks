@@ -1,0 +1,27 @@
+baseURL: "https://bestpetpicks.pages.dev/"
+locale: "en-us"
+title: "Best Pet Picks"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  env: production
+  description: "Expert reviews and buying guides for pet supplies — cages, food, toys, and accessories for dogs, cats, hamsters, rabbits, and more."
+  author: "Best Pet Picks Team"
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  
+  homeInfoParams:
+    Title: "Best Pet Picks 🐾"
+    Content: "Honest, in-depth reviews of pet products. We test and compare the best cages, food, toys, and accessories so you don't have to."
+
+  socialIcons: []
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
