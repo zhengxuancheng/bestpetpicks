@@ -37,7 +37,7 @@ If you have multiple cats, the post will see 2–3x the wear. Look for **replace
 
 ### 1. SmartCat Ultimate Scratching Post — Best Overall
 
-{{< affiliate-link asin="B000634MHW" >}}
+{{< affiliate-link asin="B000634MH8" >}}
 
 The SmartCat Ultimate Scratching Post is the most recommended scratching post by veterinarians and behaviorists for a reason. Standing **32 inches tall** with a 16 × 16-inch MDF base, it's tall enough for even large breeds like Maine Coons to fully stretch. The post is wrapped in tightly wound **0.37-inch sisal rope** — noticeably thicker than budget posts — and the hollow core with replaceable sisal insert doubles its lifespan.
 
