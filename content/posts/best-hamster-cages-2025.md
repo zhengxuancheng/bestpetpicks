@@ -41,7 +41,7 @@ Hamsters are escape artists. Look for secure door latches, tightly fitting compo
 
 ### 1. Prevue Pet Products 528 Universal Small Animal Home — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0002ATOLS" >}}
 
 The Prevue 528 offers approximately **617 square inches** of floor space — well above the minimum — at a mid-range price. The 3/8-inch bar spacing is safe for Syrians and most dwarf hamsters. The deep plastic base pan holds several inches of bedding for burrowing.
 
@@ -62,7 +62,7 @@ The Prevue 528 offers approximately **617 square inches** of floor space — wel
 
 ### 2. Savic Hamster Heaven Metro — Best for Dwarf Hamsters
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00178P2F0" >}}
 
 With narrow **7mm bar spacing** and approximately 580 square inches of floor space, the Hamster Heaven Metro is ideal for dwarf hamsters who might slip through wider bars. It comes with useful accessories like a wheel, house, and tunnels.
 
@@ -83,7 +83,7 @@ With narrow **7mm bar spacing** and approximately 580 square inches of floor spa
 
 ### 3. Aivituvin Wooden Hamster Cage — Best Natural Look
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07VGMQ3P2" >}}
 
 This two-level wooden cage with wire sides offers a natural aesthetic and multiple compartments. It's particularly popular for those who want their hamster's home to blend with their own decor.
 
@@ -104,7 +104,7 @@ This two-level wooden cage with wire sides offers a natural aesthetic and multip
 
 ### 4. Ferplast Favola Hamster Cage — Best Budget Option
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00G7G0GJ6" >}}
 
 The Ferplast Favola provides a functional two-level design at a very accessible price point. Floor space is on the smaller side at **340 square inches**, so it's best suited for dwarf hamsters only.
 
@@ -125,7 +125,7 @@ The Ferplast Favola provides a functional two-level design at a very accessible 
 
 ### 5. Living World Deluxe Habitat — Best Multi-Level
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00178K7AE" >}}
 
 A spacious multi-level wire cage with a deep balcony platform and approximately 490 square inches of base floor space. The wire top section is fully accessible via a large hinged opening.
 
@@ -146,7 +146,7 @@ A spacious multi-level wire cage with a deep balcony platform and approximately 
 
 ### 6. Exo Terra Glass Terrarium — Best for Burrowing
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B001F3YT0Y" >}}
 
 An aquarium-style enclosure without bars — perfect for hamsters who love deep burrowing. The 40-gallon "breeder" size offers the most floor space. The front-opening doors are a major convenience upgrade over traditional aquariums.
 
@@ -168,7 +168,7 @@ An aquarium-style enclosure without bars — perfect for hamsters who love deep 
 
 ### 7. Kaytee CritterTrail 2-Level — Best Starter Kit
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0002ASALE" >}}
 
 The CritterTrail is the classic "first hamster cage" — colorful, modular, and immediately recognizable. It's a fun introduction but comes with significant caveats.
 
@@ -190,7 +190,7 @@ The CritterTrail is the classic "first hamster cage" — colorful, modular, and 
 
 ### 8. Niteangel Bigger World — Best Premium Enclosure
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B08J7S6GYK" >}}
 
 Niteangel's "Bigger World" series is designed specifically for hamster owners who follow the latest welfare standards. MDF wood construction with a clear acrylic front panel.
 

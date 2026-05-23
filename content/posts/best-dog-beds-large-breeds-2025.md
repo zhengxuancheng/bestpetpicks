@@ -41,7 +41,7 @@ Thick foam traps heat. If your dog runs hot, look for **cooling gel-infused foam
 
 ### 1. Big Barker 7" Pillow Top Orthopedic Dog Bed — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00B7P4Y7W" >}}
 
 The Big Barker is the gold standard for large breed beds, backed by a **10-year warranty** on foam not flattening. Three layers of American-made high-density therapeutic foam total 7 inches thick. The microfiber cover is machine-washable. A University of Pennsylvania study found it improves joint mobility in large dogs.
 
@@ -64,7 +64,7 @@ The Big Barker is the gold standard for large breed beds, backed by a **10-year 
 
 ### 2. Furhaven Orthopedic Dog Bed — Best Budget
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00BQRG152" >}}
 
 Furhaven's orthopedic line proves support doesn't require a fortune. Medical-grade egg-crate foam with a soft polyester cover (plush faux fur or cooling knit options). The cover is removable and machine-washable, with jumbo sizes up to **53 × 40 inches**.
 
@@ -87,7 +87,7 @@ Furhaven's orthopedic line proves support doesn't require a fortune. Medical-gra
 
 ### 3. PetFusion Ultimate Dog Bed — Best Memory Foam
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00IJK8SQS" >}}
 
 PetFusion's Ultimate bed features a solid **4-inch memory foam base** with a recycled polyfill bolster on three sides for head-resting. The cover is water-resistant and tear-resistant with a non-skid bottom. CertiPUR-US certified foam. Sizes up to **44 × 34 inches** (dogs up to 100 lbs).
 
@@ -110,7 +110,7 @@ PetFusion's Ultimate bed features a solid **4-inch memory foam base** with a rec
 
 ### 4. K9 Ballistics Chew Proof Elevated Dog Bed — Best for Chewers
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B00BVSVXZ4" >}}
 
 If your dog destroys every bed, K9 Ballistics has the answer. This elevated cot uses an aircraft-grade **aluminum frame** and ballistic ripstop fabric that resists digging, scratching, and moderate chewing. The **180-day chew-proof warranty** replaces the fabric if damaged. Elevated design promotes airflow.
 
@@ -133,7 +133,7 @@ If your dog destroys every bed, K9 Ballistics has the answer. This elevated cot 
 
 ### 5. Casper Dog Bed — Best Splurge
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07D3X1NF2" >}}
 
 Casper brings human-mattress engineering to dogs. A **viscoelastic memory foam base** plus supportive polyurethane top layer, covered in durable microfiber with stitching that creates a nesting surface. Bolster sides work for head-resting or draping. Cover is machine-washable with a waterproof inner liner.
 
@@ -156,7 +156,7 @@ Casper brings human-mattress engineering to dogs. A **viscoelastic memory foam b
 
 ### 6. K&H Pet Products Cool Bed III — Best Cooling Bed
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B000W3WRC4" >}}
 
 The K&H Cool Bed III uses a water-saturated cooling core — no electricity needed. Simply fill with water, and evaporative cooling keeps the surface 10–15°F cooler. Available in large (32 × 25 in.) and extra-large (44 × 32 in.). Nylon/vinyl exterior wipes clean easily.
 
@@ -179,7 +179,7 @@ The K&H Cool Bed III uses a water-saturated cooling core — no electricity need
 
 ### 7. BarksBar Gray Orthopedic Dog Bed — Best Mid-Range
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B01IRNYZ7E" >}}
 
 BarksBar hits the sweet spot of quality and affordability. A **4-inch solid memory foam base** with a cotton-padded bolster. The plush quilted cover is machine-washable with a non-slip rubber bottom. Large size is **40 × 30 inches** (dogs up to ~80 lbs).
 
@@ -202,7 +202,7 @@ BarksBar hits the sweet spot of quality and affordability. A **4-inch solid memo
 
 ### 8. Coolaroo The Original Elevated Dog Bed — Best Outdoor
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B000TMFCC2" >}}
 
 The Coolaroo is a simple, effective elevated bed with a powder-coated steel frame and breathable HDPE mesh fabric. It keeps dogs off hot pavement, cold concrete, and damp ground. Available in large (48 × 36 in.) and extra-large (60 × 48 in.). Flea, mite, and mildew-resistant.
 

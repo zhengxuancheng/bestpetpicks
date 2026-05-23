@@ -37,7 +37,7 @@ If you have multiple cats, the post will see 2–3x the wear. Look for **replace
 
 ### 1. SmartCat Ultimate Scratching Post — Best Overall
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B000634MHW" >}}
 
 The SmartCat Ultimate Scratching Post is the most recommended scratching post by veterinarians and behaviorists for a reason. Standing **32 inches tall** with a 16 × 16-inch MDF base, it's tall enough for even large breeds like Maine Coons to fully stretch. The post is wrapped in tightly wound **0.37-inch sisal rope** — noticeably thicker than budget posts — and the hollow core with replaceable sisal insert doubles its lifespan.
 
@@ -60,7 +60,7 @@ The SmartCat Ultimate Scratching Post is the most recommended scratching post by
 
 ### 2. Frisco 21-Inch Scratching Post — Best Budget Vertical Post
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0B929XWQS" >}}
 
 For cat owners on a budget, the Frisco 21-Inch Scratching Post offers solid sisal scratching at a wallet-friendly price. The post features natural sisal rope on a sturdy particleboard core with a **16-inch square base**. At 21 inches tall, it's better suited for kittens and smaller adult cats — larger cats will outgrow it for full-body stretching. The neutral tan and beige color blends with most home decor.
 
@@ -83,7 +83,7 @@ For cat owners on a budget, the Frisco 21-Inch Scratching Post offers solid sisa
 
 ### 3. PetFusion Ultimate Cat Scratcher Lounge — Best Cardboard Design
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B008LN4L8A" >}}
 
 The PetFusion Ultimate Cat Scratcher Lounge flips the script on cardboard scratchers. Instead of a flat pad, it's a **curved infinity lounger** that serves double duty as a scratching surface and a cozy resting spot. Made from recycled corrugated cardboard with a dense, layered construction, it's built to last far longer than budget cardboard pads. The large size (34 × 10.5 × 10.5 inches) accommodates multiple cats simultaneously.
 
@@ -106,7 +106,7 @@ The PetFusion Ultimate Cat Scratcher Lounge flips the script on cardboard scratc
 
 ### 4. CatastrophiCreations Wall-Mounted Scratching Post — Best Space-Saver
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B0BGPBYGN4" >}}
 
 For apartments, small rooms, or minimalist homes, CatastrophiCreations' wall-mounted scratching post is a brilliant solution. Made from **solid maple hardwood** with a natural sisal wrap, it mounts securely to wall studs and eliminates floor clutter entirely. The company offers multiple sizes and colors, and the sisal wrap is hand-wound for density. Installation requires a drill and stud finder, but the result is a permanent, rock-solid scratching station.
 
@@ -130,7 +130,7 @@ For apartments, small rooms, or minimalist homes, CatastrophiCreations' wall-mou
 
 ### 5. FEANDREA 67-Inch Multi-Level Cat Tree — Best Cat Tree with Scratching
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07CQ35HMR" >}}
 
 If you want climbing, perching, hiding, and scratching in one unit, the FEANDREA 67-Inch Cat Tree delivers. This multi-level tower features **seven scratching posts** wrapped in natural sisal, two plush condos, multiple perches, and a hanging toy ball. The base is reinforced with anti-tip hardware that anchors to the wall. At 67 inches, it reaches floor-to-ceiling in many homes and gives cats the vertical territory they crave.
 
@@ -155,7 +155,7 @@ If you want climbing, perching, hiding, and scratching in one unit, the FEANDREA
 
 ### 6. Amazon Basics Scratching Post with Reversible Base — Best Versatile Option
 
-{{< affiliate-link >}}
+{{< affiliate-link asin="B07LFKVKPG" >}}
 
 Amazon Basics delivers a clever two-in-one design: a vertical sisal scratching post when upright, or **flip it horizontally** for a floor-level scratch pad. The base serves as a scratching surface in either orientation — sisal rope on both sides. Standing 18 inches tall with a 17.7 × 8.7-inch base, it's compact enough for any room. The neutral gray color blends with most decor.
 
