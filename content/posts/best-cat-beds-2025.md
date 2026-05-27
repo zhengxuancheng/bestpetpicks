@@ -123,6 +123,6 @@ If your home drops below 65°F in winter, or your cat is over 10 years old, yes.
 - **Multi-cat:** PetFusion Lounger
 - **Budget:** Frisco Plush Donut
 
-Cats sleep more than any other pet. Give them a bed worthy of those 16 hours.
+Your cat spends more of its life asleep than awake. The right bed isn't a luxury — it's where 16 hours a day happen.
 
 *We may earn a commission if you purchase through links on this page — at no extra cost to you.*

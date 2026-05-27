@@ -299,16 +299,16 @@ Sometimes. It depends on the species, the individuals, and the cage size. Finche
 
 ## The Bottom Line
 
-For **parakeets and finches**, the **Prevue Hendryx Wrought Iron Cage** is the right call — correct bar spacing, solid construction, and a fair price. You'll want to upgrade the plastic cups and maybe add a natural wood perch, but the cage itself is well-made.
+For **parakeets and finches**, the **Prevue Hendryx Wrought Iron Cage** is the right call: correct bar spacing, solid construction, and a fair price. You'll want to upgrade the plastic cups and maybe add a natural wood perch, but the cage itself is well-made.
 
 For **cockatiels and small conures**, the **Hagen Vision II** solves the mess problem better than anything else in its class. The clear plastic base makes cleaning way easier, and it assembles without tools. Just watch the plastic latch.
 
-For **conures and quakers**, the **Prevue Hendryx Playtop** is the best value — thicker steel, correct bar spacing, and a usable play top. It's not cheap, but it won't need replacing.
+For **conures and quakers**, the **Prevue Hendryx Playtop** is the best value. Thicker steel, correct bar spacing, and a usable play top. It's not cheap, but it won't need replacing.
 
 For **finch owners who want their birds to actually fly**, the **A&E Elegant Flight Cage** is the standout. The horizontal layout lets small birds do what they do best. Heavy and basic on accessories, but the frame is built well.
 
 For **African Grey and Amazon owners**, the **Kings Aluminum Cage** is the long-term answer. It costs more, but it won't rust, chip, or degrade. Over a bird's 40-60 year lifespan, it pays for itself.
 
-Whatever cage you choose, buy the largest cage you can fit in your space and carry up your stairs. Birds don't outgrow space — they just use more of it.
+Whatever cage you choose, buy the largest cage you can fit in your space and carry up your stairs. Birds don't outgrow space. They just use more of it.
 
 *Disclosure: We may earn a commission if you purchase through links on this page — at no extra cost to you.*
